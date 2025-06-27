@@ -68,14 +68,14 @@
 ---
 
 <h3 align="left">สถิติบน GitHub:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=[ชื่อ Username GitHub ของคุณ]&show_icons=true&locale=en" alt="[ชื่อ Username GitHub ของคุณ]" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GUTY345&show_icons=true&locale=en" alt="GUTY345" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[ชื่อ Username GitHub ของคุณ]&" alt="[ชื่อ Username GitHub ของคุณ]" /></p>
 
 ---
 <h3 align="left">โปรเจกต์เด่น (Featured Projects):</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ชื่อ Username GitHub ของคุณ]&repo=[ชื่อ Repository ของคุณ])]([ลิงก์ไปยัง Repository])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GUTY345&repo=[ชื่อ Repository ของคุณ])]([ลิงก์ไปยัง Repository])
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ชื่อ Username GitHub ของคุณ]&repo=[ชื่อ Repository ของคุณ])]([ลิงก์ไปยัง Repository])
 
